@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94cc1241-da28-4bac-9c24-651a73c4ec90" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Leetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/LongestCommonPrefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/PalindromeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/RomanToInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
